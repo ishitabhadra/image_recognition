@@ -24,3 +24,10 @@ please enter a file name:  image_01.png
 
 Tesseract sample
 
+#To execute image.py, install the following libraries:
+pip3 install opencv-python
+pip3 install easyocr
+
+ #How to execute the program
+>$ python3 image.py
+
